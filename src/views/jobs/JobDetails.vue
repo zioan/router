@@ -5,6 +5,7 @@
   <p>The job id is {{myid}}</p>
 </template>
 
+
 <script>
   export default {
     props: ['myid'],
